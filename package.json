@@ -16,7 +16,7 @@
     "gl-matrix": "^3.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "3.4.4",
     "typescript": "^3.9.6",
     "underscore": "^1.12.1"
   },
